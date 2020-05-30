@@ -1,0 +1,3 @@
+Eratosthenes Solution:
+ 2 3
+Whoah man, that took 1 milliseconds to execute... Yikes!
