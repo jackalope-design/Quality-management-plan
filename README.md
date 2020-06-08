@@ -1,1 +1,1 @@
-# CSC385-QualityManagementPlan
+# Quality Management Plan
