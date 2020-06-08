@@ -1,3 +1,3 @@
 # Quality Management Plan
 
-Made for the class: **CSC 485 - QA**
+Made for the class: **CSC 485 - Quality Assurance**
