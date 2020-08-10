@@ -2,4 +2,4 @@
 
 Made for the class: **CSC 485 - Quality Assurance**
 
-This is a full QA analasiss report of a prodject I did for my datastructures class. Me and my groupmates focused on: Testcases, Boundary Value Analsys, Controll and Dataflow, C-use and P-use, Object Orintation testing, State testing, Loop coverage, equivalance classes, and Polymorphism tests.
+This is a full QA analysis report of a project I did for my data structures class. Me and my groupmates focused on: Test Cases, Boundary Value Analysis, Control and Dataflow, C-use and P-use, Object Orientation testing, State testing, Loop coverage, equivalence classes, and Polymorphism tests.
